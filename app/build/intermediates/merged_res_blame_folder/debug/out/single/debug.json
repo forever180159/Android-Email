@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_adduser_detail_hide_password.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\adduser_detail_hide_password.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\anim_viewpager_sign_move_animation.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\anim\\viewpager_sign_move_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_rect_gray.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\rect_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\layout_account_inbox_listview.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\layout\\account_inbox_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_divider_gray.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\divider_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\layout_adduser.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\layout\\adduser.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\layout_main_page_outbox.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\layout\\main_page_outbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_close.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_page_toolbar_write_email.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\main_page_toolbar_write_email.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\layout_main_page_inbox.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\layout\\main_page_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_account_inbox_listview_unread_sign.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\account_inbox_listview_unread_sign.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\anim_viewpager_title_hide_alpha_animation.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\anim\\viewpager_title_hide_alpha_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\layout_main_page.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\layout\\main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_account_inbox_email_head_portrait.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\main_account_inbox_email_head_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_adduser_detail_show_password.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\adduser_detail_show_password.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_page_toolbar_head_portrait.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\main_page_toolbar_head_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\layout_main_page_drafts.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\layout\\main_page_drafts.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_activity_main_toolbar_menu.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\activity_main_toolbar_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_viewpager_sign.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\viewpager_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_page_toolbar_search.png.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\drawable\\main_page_toolbar_search.png"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\anim_viewpager_title_show_alpha_animation.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\anim\\viewpager_title_show_alpha_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\layout_main_page_setting.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\layout\\main_page_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\layout_main_page_dustbin.xml.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\layout\\main_page_dustbin.xml"
+    },
+    {
+        "merged": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\77146\\Documents\\AndroidProjects\\Android-Email\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

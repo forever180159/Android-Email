@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Email</string>
-    <!--默认英语输入法-->
-    <string name="english_keyboard">qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890@.</string>
-</resources>
